@@ -1,12 +1,11 @@
 University: [ITMO University](https://itmo.ru/ru/)  
-Faculty: [FICT](https://fict.itmo.ru)  
-Course: [Cloud platforms as the basis of technology entrepreneurship](https://ex-itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/)  
+Faculty: [FTMI](https://ftmi.itmo.ru/)  
+Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)  
 Year: 2026/2027  
-Group: УКАЖИТЕ ГРУППУ  
-Author: УКAЖИТЕ ФАМИЛИЮ, ИМЯ И ОТЧЕСТВО ЛАТИНИЦЕЙ  
-Lab: Lab1  
+Group: U4225<br>
+Author: Peshkov Andrey Konstantinovich<br>
+Lab: Lab1<br>
 Date of create: 02.11.2026  
-Date of finished: УКAЖИТЕ ДАТУ ЗАЩИТЫ
 
 # Лабораторная работа № 1
 

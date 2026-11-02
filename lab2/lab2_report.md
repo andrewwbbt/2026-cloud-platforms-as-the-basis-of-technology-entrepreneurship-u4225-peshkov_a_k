@@ -1,12 +1,12 @@
 University: [ITMO University](https://itmo.ru/ru/)  
 Faculty: [FTMI](https://ftmi.itmo.ru/)  
-Course: [Cloud platforms as the basis of technology entrepreneurship](https://ex-itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/)  
+Course: [Cloud platforms as the basis of technology entrepreneurship] 
 Year: 2026/2027  
-Group: U4225  
-Author: Peshkov Andrey Konstantinovich  
-Lab: Lab2  
+Group: U4225<br>
+Author: Peshkov Andrey Konstantinovich<br>
+Lab: Lab2<br>
 Date of create: 02.11.2026  
-Date of finished: указать дату защиты
+
 
 # Лабораторная работа № 2
 
